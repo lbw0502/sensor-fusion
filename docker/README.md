@@ -42,7 +42,7 @@
 
 请参考[Docker Compose官方文档](https://docs.docker.com/compose/install/)完成`Docker-Compose`环境的安装
 
-注意：安装1.25版本Docker-Compose
+注意：安装1.25.0版本Docker-Compose
 
 ---
 
